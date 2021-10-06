@@ -2,6 +2,8 @@
 - 👀 I’m interested in front end development 
 - 🌱 I’m currently learning TypeScript
 
+- profolio page: https://portfolio-tibor-bezdan.firebaseapp.com/#/Home/London+Paris
+- repository: https://github.com/sajberkurajber90/Portfolio
 
 ## **Contact:**
 <a href="https://www.linkedin.com/in/tibor-bezdan">
