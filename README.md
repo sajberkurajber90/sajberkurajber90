@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Tibor Bezdan 
 - 👀 I’m interested in front end development 
-- 🌱 I’m currently learning TypeScript
 
 - profolio page: https://portfolio-tibor-bezdan.firebaseapp.com/#/Home/London+Paris
 - repository: https://github.com/sajberkurajber90/Portfolio
