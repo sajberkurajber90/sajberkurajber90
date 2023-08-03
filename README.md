@@ -1,10 +1,3 @@
-- 👋 Hi, I’m Tibor Bezdan 
-- 👀 I’m interested in front end development 
-- :books: currently learning NodeJs
-
-- profolio page: https://portfolio-tibor-bezdan.firebaseapp.com/#/Home/London+Paris
-- repository: https://github.com/sajberkurajber90/Portfolio
-
 ## **Contact:**
 <a href="https://www.linkedin.com/in/tibor-bezdan">
 <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" />
